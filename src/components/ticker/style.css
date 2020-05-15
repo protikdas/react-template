@@ -1,0 +1,19 @@
+.white {
+	position: fixed;
+	top: 0;
+	height: 30px;
+	display: flex;
+	justify-content: center;
+	padding-top: 10px;
+	background-color: white;
+	color: black;
+}
+
+.black {
+	height: 30px;
+	display: flex;
+	justify-content: center;
+	padding-top: 10px;
+	background-color: black;
+	color: white;
+}
